@@ -1,0 +1,72 @@
+/* 
+
+Project Name: Witchz Music Bio 
+Client: Witchz Music
+CO Auther: Danielle Lattino | www.twitter.com/DDdoingstuff | www.lionzdenstudioz.com
+Developed @ Lionzden in Las Vegas
+OG Author: Chris Castiglione | www.twitter.com/castig | www.castig.org 
+Developed @ One Month in NYC 
+
+*/
+body {
+	background: url(witchz-background.jpg);
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#title {
+    background-color: #dbe9e7;
+    margin: 100px 600px 0 100px;
+    padding: 20px 0 20px 0;
+    text-align: center;
+}
+#whitebox {
+    border-radius: 5px;
+    border: solid #2d2625 2px;
+    background-color: #efefef;
+    margin: 0 550px 0px 50px;
+    padding: 10px;
+    text-align: left;
+    line-height: 20pt;
+    letter-spacing: 1px;
+}
+#socialbox {
+    background-color: #dbe9e7;
+    margin: 0 600px 0 100px;
+    padding: 20px 0 20px 0;
+    text-align: center;
+}
+#videobox{
+    background-color: #dbe9e7; 
+    padding: 20px;
+    border-radius: 5px;
+    border: solid #2d2625 2px;
+    margin: 30px 500px 30px 0;
+}
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size:50px;
+    color: #a02914;
+}
+p {
+    font-family: Helvetica, sans-serif;
+    font-size:16px;
+    color: #2d2d2d;
+    padding: 20px 50px 0 50px;
+}
+h4 {
+    font-family: Helvetica, sans-serif;
+    font-size:16px;
+    color: #2d2d2d;
+    padding: 5px 50px 20px 50px;
+}
+a {
+	color: #a02914;
+	text-decoration: none;
+}
+.icon {
+    padding: 10px;
+}
